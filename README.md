@@ -14,11 +14,22 @@ yumeTwinkle アイコンテーマ for Winterboard
 キラキララメが入った画像を用いて、ゆめかわいい･･･ではないものの、可愛いアイコンテーマを目指しています。
 
 
-## インストール方法（準備中）
+## インストール方法
 
-まだインストール用の Tweak を用意していませんので、用意した後に紹介します。
+1. レポジトリを追加します → [yuta/Repo. (tweak.y59.jp)](cydia://url/https://cydia.saurik.com/api/share#?source=https://tweak.y59.jp/)
+2. `IconBundles` Tweak をインストールしていない場合は、先にインストールします
+3. レポジトリを追加後、`yume` で検索し、デバイスに合わせた Tweak をインストールします
+	* iPhone@2x (iPhone 7, iPhone SE など Plus 以外) → `yumeTwinkle (WB/iPhone@2x)`
+	* iPhone@3x（iPhone 6+, 6s+, 7+）→ `yumeTwinkle (WB/iPhone@3x)`
+	* iPad → `yumeTwinkle (WB/iPad)`
+4. 設定 → Winterboard からテーマを選択してリスプリングします
+5. テーマをお楽しみください
 
-注意: **`IconBundles` Tweak が入っていることが前提のアイコンテーマです。**
+
+## 注意
+
+iPhone 6s / iPad mini 2 (手持ちデバイス)でのみ動作検証しています。
+
 
 ## Copyright
 

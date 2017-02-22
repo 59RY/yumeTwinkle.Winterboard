@@ -1,9 +1,9 @@
 Package: jp.y59.yumeTwinkle.Winterboard.iPad
-Name: yumeTwinkle (Winterboard / iPad)
+Name: yumeTwinkle (WB/iPad)
 Architecture: iphoneos-arm
-Description: Lilely Yumekawaii Cute Theme(?) for Winterboard/iPad.
+Description: Lilely Yumekawaii Theme for Winterboard / iPad.
 Maintainer: Yamada Yuta <yumeTwinkle@alias.y59.jp>
 Author: Yamada Yuta <yumeTwinkle@alias.y59.jp>
 Depends: winterboard, com.codethemed.iconbundles
 Section: Themes
-Version: 0.1
+Version: 0.2
