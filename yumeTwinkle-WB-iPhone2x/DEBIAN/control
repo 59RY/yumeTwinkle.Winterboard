@@ -1,9 +1,13 @@
 Package: jp.y59.yumeTwinkle.Winterboard.iPhone2x
 Name: yumeTwinkle (WB/iPhone@2x)
 Architecture: iphoneos-arm
+Priority: optional
 Description: Lilely Yumekawaii Theme for Winterboard / iPhone ~4.7inch.
+ キラキラしたゆめかわいいを目指すアイコンテーマ！
+ * Winerboard 用のテーマです
+ * iPhone@2x（4.7インチ以下）のデバイス用です
 Maintainer: Yamada Yuta <yumeTwinkle@alias.y59.jp>
 Author: Yamada Yuta <yumeTwinkle@alias.y59.jp>
 Depends: winterboard, com.codethemed.iconbundles
 Section: Themes
-Version: 0.2.1
+Version: 0.3
